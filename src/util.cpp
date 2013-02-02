@@ -1,5 +1,5 @@
 //
-// Copyright (c) 2005, 2006 Wei Mingzhi <whistler@openoffice.org>
+// Copyright (c) 2005, 2006 Wei Mingzhi <whistler_wmz@users.sf.net>
 // Portions Copyright (c) 2001 Gregory Velichansky <hmaon@bumba.net>
 // Portions Copyright (c) 2000 Stephane Magnenat <nct@ysagoon.com>
 // All Rights Reserved.

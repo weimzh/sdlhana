@@ -1,4 +1,4 @@
-/* Copyright (c) 2005, 2006 Wei Mingzhi <whistler@openoffice.org>
+/* Copyright (c) 2005, 2006 Wei Mingzhi <whistler_wmz@users.sf.net>
    All Rights Reserved.
 
    This program is free software; you can redistribute it and/or
