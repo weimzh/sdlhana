@@ -1,0 +1,301 @@
+//
+// Copyright (c) 2005, Wei Mingzhi. All Rights Reserved.
+// Use, redistribution and modifications of this file are unrestricted
+// as long as the above copyright notice is preserved.
+//
+////////////////////////////////////////////////////////
+
+five_lights
+{
+Five Lights
+}
+
+four_lights
+{
+Four Lights
+}
+
+rain_four_lights
+{
+Rain Four Lights
+}
+
+three_lights
+{
+Three Lights
+}
+
+rain_three_lights
+{
+Rain Three Lights
+}
+
+red_ribbons
+{
+Red Ribbons
+}
+
+blue_ribbons
+{
+Blue Ribbons
+}
+
+normal_ribbons
+{
+Grass Ribbons
+}
+
+ribbons
+{
+Ribbons
+}
+
+boar_deer_butterfly
+{
+Boar, Deer & Butterfly
+}
+
+five_birds
+{
+Five Birds
+}
+
+animals
+{
+Animals
+}
+
+flower_meets_sakecup
+{
+Flower Meets Sakecup
+}
+
+moon_meets_sakecup
+{
+Moon Meets Sakecup
+}
+
+cards
+{
+Cards
+}
+
+dealer
+{
+Dealer
+}
+
+point
+{
+Point
+}
+
+points
+{
+Points
+}
+
+koikoiyesorno
+{
+Would you like to continue the game?
+}
+
+go
+{
+Yes
+}
+
+stop
+{
+No
+}
+
+comdealer
+{
+I am the dealer this round.
+}
+
+youdealer
+{
+You are the dealer this round.
+}
+
+discardcardselect
+{
+Please select a card.
+}
+
+computerwin
+{
+You Lose!
+}
+
+youwin
+{
+You Win!
+}
+
+total
+{
+Total
+}
+
+play
+{
+Start Game
+}
+
+settings
+{
+Game Settings
+}
+
+quit
+{
+Quit Game
+}
+
+doubleupyesorno
+{
+Do you want to Double-Up?
+}
+
+yes
+{
+Yes
+}
+
+no
+{
+No
+}
+
+bigorsmall
+{
+Big or Small?
+}
+
+big
+{
+Big
+}
+
+small
+{
+Small
+}
+
+fullscreen
+{
+Full Screen
+}
+
+enablesound
+{
+Enable Sound
+}
+
+gamemode
+{
+Game Mode
+}
+
+language
+{
+Language
+}
+
+gamemode0
+{
+Koi-Koi
+}
+
+gamemode1
+{
+Koi-Koi [BET]
+}
+
+gamemode2
+{
+Go-Stop
+}
+
+animspeed
+{
+Game Speed
+}
+
+veryslow
+{
+Very Slow
+}
+
+slow
+{
+Slow
+}
+
+middle
+{
+Middle
+}
+
+fast
+{
+Fast
+}
+
+veryfast
+{
+Very Fast
+}
+
+chs
+{
+Simplified Chinese
+}
+
+jpn
+{
+Japanese
+}
+
+eng
+{
+English
+}
+
+fra
+{
+French
+}
+
+Enabled
+{
+Enabled
+}
+
+Disabled
+{
+Disabled
+}
+
+comget3pts
+{
+You lost 3 points!
+}
+
+youget3pts
+{
+You got 3 points!
+}
+
+comget5pts
+{
+You lost 5 points!
+}
+
+youget5pts
+{
+You got 5 points!
+}

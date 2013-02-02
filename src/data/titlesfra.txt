@@ -1,0 +1,311 @@
+//
+// Copyright (c) 2005, Wei Mingzhi. All Rights Reserved.
+// Use, redistribution and modifications of this file are unrestricted
+// as long as the above copyright notice is preserved.
+//
+////////////////////////////////////////////////////////
+
+// French translation by rangzen
+// FIXME: (1) some strings are too long
+//        (2) new strings since 0.3 release are untranslated
+
+five_lights
+{
+Cinq lumières
+}
+
+four_lights
+{
+Quatre lumières
+}
+
+rain_four_lights
+{
+Pluie quatre lumières
+}
+
+three_lights
+{
+Trois lumières
+}
+
+rain_three_lights
+{
+Pluie trois lumière
+}
+
+red_ribbons
+{
+Rubans rouges
+}
+
+blue_ribbons
+{
+Rubans bleus
+}
+
+normal_ribbons
+{
+Rubans normaux
+}
+
+ribbons
+{
+Rubans
+}
+
+boar_deer_butterfly
+{
+Boar, Deer & Butterfly
+}
+
+five_birds
+{
+Cinq oiseaux
+}
+
+animals
+{
+Animaux
+}
+
+flower_meets_sakecup
+{
+La fleur rencontre la coupe de sake
+}
+
+moon_meets_sakecup
+{
+La lune rencontre la coupe de sake
+}
+
+cards
+{
+Cartes
+}
+
+dealer
+{
+Distributeur
+}
+
+point
+{
+Point
+}
+
+points
+{
+Points
+}
+
+koikoiyesorno
+{
+Voulez vous continuez la partie ?
+}
+
+go
+{
+Oui
+}
+
+stop
+{
+Non
+}
+
+comdealer
+{
+Je distribue ce tour-ci.
+}
+
+youdealer
+{
+Vous distribuez ce tour-ci.
+}
+
+discardcardselect
+{
+Veuillez selectionner une carte.
+}
+
+computerwin
+{
+Vous avez perdue !
+}
+
+youwin
+{
+Vous avez gagné !
+}
+
+total
+{
+Total
+}
+
+play
+{
+Commencer une partie
+}
+
+settings
+{
+Paramêtres du jeu
+}
+
+quit
+{
+Quitter la partie
+}
+
+doubleupyesorno
+{
+Voulez vous doubler ?
+}
+
+yes
+{
+Oui
+}
+
+no
+{
+Non
+}
+
+bigorsmall
+{
+Gros ou petit ?
+}
+
+big
+{
+Gros
+}
+
+small
+{
+Petit
+}
+
+fullscreen
+{
+Plein écran
+}
+
+enablesound
+{
+Activer le son
+}
+
+soundvolume
+{
+Volume sonore
+}
+
+gamemode
+{
+Mode de jeu
+}
+
+language
+{
+Langage
+}
+
+gamemode0
+{
+Koi-Koi
+}
+
+gamemode1
+{
+Koi-Koi [BET]
+}
+
+gamemode2
+{
+Go-Stop
+}
+
+animspeed
+{
+Game Speed
+}
+
+veryslow
+{
+Very Slow
+}
+
+slow
+{
+Slow
+}
+
+middle
+{
+Middle
+}
+
+fast
+{
+Fast
+}
+
+veryfast
+{
+Very Fast
+}
+
+chs
+{
+Simplified Chinese
+}
+
+jpn
+{
+Japanese
+}
+
+eng
+{
+English
+}
+
+fra
+{
+French
+}
+
+Enabled
+{
+Enabled
+}
+
+Disabled
+{
+Disabled
+}
+
+comget3pts
+{
+You lost 3 points!
+}
+
+youget3pts
+{
+You got 3 points!
+}
+
+comget5pts
+{
+You lost 5 points!
+}
+
+youget5pts
+{
+You got 5 points!
+}
+

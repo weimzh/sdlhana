@@ -1,0 +1,50 @@
+7/31/2009 Wei Mingzhi <whistler at openoffice.org>:
+ * src/util.cpp (RandomLong, RandomFloat): Fixed x86_64 compatibility bug.
+ * COPYING.draft: Removed old draft of GPLv3.
+
+12/25/2008 Wei Mingzhi <whistler at openofice.org>:
+ * src/general.cpp: Fixed GCC 4.3 warning.
+ * src/main.cpp (MakeFileName): Fixed GCC 4.3 warning.
+ * src/data/titleschs.txt: Fixed an error in translation.
+ * configure, Makefile.in: Regenerated.
+
+7/23/2006 Wei Mingzhi <whistler at openoffice.org>:
+ * src/sound.cpp: Added.
+ * src/main.cpp (main): Don't use SDL_mixer.
+ * src/game.cpp (CGame::Settings), src/general.cpp (CGeneral::LoadSound,
+   CGeneral::PlaySound, CGeneral::PlaySoundFile): Likewise.
+ * configure.in: Removed -lSDL_mixer.
+ * debian/control: Removed build depency of SDL_mixer.
+ * README: Updated.
+ * configure, Makefile.in: Regenerated.
+
+6/30/2006 Wei Mingzhi <whistler at openoffice.org>:
+ * src/Makefile.am: Don't fix bindir to be ${prefix}/games.
+ * configure, Makefile.in: Regenerated.
+
+5/14/2006 Wei Mingzhi <whistler at openoffice.org>:
+ * game.cpp (CGame::CGame, CGame::PlayRound): Don't allow score to be
+   more than 99999 or less than -99999.
+
+4/28/2006 Wei Mingzhi <whistler at openoffice.org>:
+ * data/titlesjpn.txt: Translated the word "French" into Japanese.
+ * fonts/jpn.fnt: Regenerated.
+
+3/6/2006 Wei Mingzhi <whistler at openoffice.org>:
+ * font.cpp, font.h (CFont::Render, CFont::FindChar): changed long to int
+   to make it work under x86_64. Reported & fixed at the project page.
+   (Still need more testing under x86_64.)
+
+3/2/2006 Wei Mingzhi <whistler at openoffice.org>:
+ * SDLHana 0.32 released.
+
+2/22/2006 Wei Mingzhi <whistler at openoffice.org>:
+ * game.cpp (CGame::Settings): Fixed a bug which causes the game to exit when
+   trying to enable the sound.
+
+2/17/2006 Wei Mingzhi <whistler at openoffice.org>:
+ * bot.cpp (CBot::WantToContinue): Changed logic.
+ * README: Added installation instruction.
+
+2/8/2006 Wei Mingzhi <whistler at openoffice.org>:
+ * SDLHana now uses GNU autotools.

@@ -1,0 +1,32 @@
+.___..        .
+  |  |_  _.._ ;_/ __
+  |  [ )(_][ )| \_)
+--------------------
+
+images/cards.bmp: from pysol-cardsets.
+
+This cardset was created by T. Kirk. The cardset was merged
+into one file by Wei Mingzhi.
+
+Copyright (C) 1999, 2000 T. Kirk <grania@mailcity.com>
+
+This card set is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2 of
+the License, or (at your option) any later version.
+
+See the file "COPYING" for details.
+
+---------------------------------------------------------------------
+sound/koi.wav, sound/win.wav, sound/lose.wav, sound/hint.wav,
+sound/hint2.wav: taken from OpenOffice.org (http://www.openoffice.org).
+
+---------------------------------------------------------------------
+French translation (data/titlesfra.txt) by rangzen.
+
+---------------------------------------------------------------------
+Portions of the code are based on the work done by:
+
+Stephane Magnenat <nct@ysagoon.com>
+Gregory Velichansky <hmaon@bumba.net>
+

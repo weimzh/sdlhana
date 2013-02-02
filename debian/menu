@@ -1,0 +1,2 @@
+?package(sdlhana):needs="X11" section="Games/Card"\
+  title="SDLHana" command="/usr/games/sdlhana"

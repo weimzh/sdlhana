@@ -1,0 +1,13 @@
+Source: sdlhana
+Section: games
+Priority: optional
+Maintainer: Wei Mingzhi <whistler@openoffice.org>
+Build-Depends: debhelper (>= 4.0.0), autotools-dev, libsdl1.2-dev
+Standards-Version: 3.6.1
+
+Package: sdlhana
+Architecture: any
+Depends: ${shlibs:Depends}
+Description: SDL-based Hanafuda game.
+ An SDL-based Hanafuda game. Hanafuda is a Japanese card game which
+ is also played in Korea, where it's known as "Hwa-T'u".
