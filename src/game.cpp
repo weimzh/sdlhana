@@ -1072,6 +1072,8 @@ void CGame::AnimDeal()
 
                now = SDL_GetTicks();
                prev_dstrect3 = dstrect3;
+
+               UTIL_Delay(1);
             } while (now < first + m_flAnimDuration);
 
             SDL_BlitSurface(save, NULL, gpScreen, &prev_dstrect3);
@@ -1144,6 +1146,8 @@ SDL_Surface *CGame::AnimCardMove(int sx, int sy, int dx, int dy,
 
       now = SDL_GetTicks();
       prev_dstrect3 = dstrect3;
+
+      UTIL_Delay(1);
    } while (now < first + m_flAnimDuration);
 
    SDL_BlitSurface(save, NULL, gpScreen, &prev_dstrect3);

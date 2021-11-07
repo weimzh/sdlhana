@@ -1,3 +1,6 @@
+11/7/2021 Wei Mingzhi <whistler at member.fsf.org>:
+ * src/game.cpp: Fix compatibility issue with sdl12-compat.
+
 7/31/2009 Wei Mingzhi <whistler at openoffice.org>:
  * src/util.cpp (RandomLong, RandomFloat): Fixed x86_64 compatibility bug.
  * COPYING.draft: Removed old draft of GPLv3.
