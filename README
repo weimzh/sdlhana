@@ -17,12 +17,14 @@ If you are installing with the source package, make sure you have the SDL
 runtime and development files correctly installed. Otherwise the source
 code will fail to compile. You may download it at http://www.libsdl.org.
 
-Decompress the source package with the following command:
-tar xjf sdlhana-0.33.tar.bz2
+Get the latest source code:
 
-Then, compile and install:
+git clone https://github.com/CecilHarvey/sdlhana
 
-cd sdlhana-0.33
+Compile and install:
+
+cd sdlhana
+autoreconf -f -i
 ./configure
 make
 make install
