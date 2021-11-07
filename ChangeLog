@@ -1,5 +1,6 @@
 11/7/2021 Wei Mingzhi <whistler at member.fsf.org>:
  * src/game.cpp: Fix compatibility issue with sdl12-compat.
+ * src/sound/*.wav: Convert all sound files to Signed 16-bit.
  * Relicense to GPLv3 only.
 
 7/31/2009 Wei Mingzhi <whistler at openoffice.org>:
