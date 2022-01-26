@@ -1,7 +1,7 @@
 Source: sdlhana
 Section: games
 Priority: optional
-Maintainer: Wei Mingzhi <whistler@openoffice.org>
+Maintainer: Wei Mingzhi <whistler@member.fsf.org>
 Build-Depends: debhelper (>= 4.0.0), autotools-dev, libsdl1.2-dev
 Standards-Version: 3.6.1
 
