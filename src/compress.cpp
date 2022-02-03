@@ -4,6 +4,20 @@
 // Data Compress Routines based on LZSS
 //
 
+/**************************************************************
+        Adapted from:
+
+        LZSS.C -- A Data Compression Program
+        (tab = 4 spaces)
+***************************************************************
+        4/6/1989 Haruhiko Okumura
+        Use, distribute, and modify this program freely.
+        Please send me your improved versions.
+                PC-VAN          SCIENCE
+                NIFTY-Serve     PAF01022
+                CompuServe      74050,1022
+**************************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
