@@ -2,6 +2,7 @@
  * src/compress.cpp: Add proper copyright notice.
  * src/fonts/eng.fnt: use the same font as French.
  * debian/docs, debian/compat: Updated.
+ * debian/changelog: Bump version.
 
 1/26/2022 Wei Mingzhi <whistler at member.fsf.org>:
  * README.md, debian/*: Update info, convert to Markdown.
